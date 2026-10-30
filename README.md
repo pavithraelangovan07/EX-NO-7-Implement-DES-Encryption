@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME:E.PAVITHRA
+## REG NO:212224220072
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
